@@ -2,8 +2,8 @@ const sharp = require("sharp");
 const fs = require("fs");
 const path = require("path");
 
-const inputFolder = path.join(__dirname, "../img");
-const outputFolder = path.join(__dirname, "../img_resized");
+const inputFolder = path.join(__dirname, "./docs/assets/img");
+const outputFolder = path.join(__dirname, "./docs/assets/img_resized");
 
 const blogWidth = 400;
 const blogHeight = 300;
