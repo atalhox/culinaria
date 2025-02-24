@@ -1,7 +1,7 @@
 # Configurações básicas do site
-site_name: Masterchef
-site_url: https://atalhox.github.io/masterchef
-repo_url: https://github.com/atalhox/masterchef
+site_name: Culinaria
+site_url: https://atalhox.github.io/culinaria
+repo_url: https://github.com/atalhox/culinaria
 
 # Configurações do servidor local
 dev_addr: "127.0.0.1:8000" # Endereço e porta para rodar localmente
