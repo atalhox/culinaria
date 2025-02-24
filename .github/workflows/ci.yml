@@ -43,7 +43,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install mkdocs-material[imaging] mkdocs-mermaid2-plugin mkdocs-git-revision-date-localized-plugin mkdocs-swagger-ui-tag mkdocs-awesome-pages-plugin
+          pip install mkdocs-material[imaging] mkdocs-mermaid2-plugin mkdocs-git-revision-date-localized-plugin mkdocs-swagger-ui-tag mkdocs-awesome-pages-plugin mkdocs-glightbox
 
       # 6. Deploy para GitHub Pages
       - name: Deploy to GitHub Pages
