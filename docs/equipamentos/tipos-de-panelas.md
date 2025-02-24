@@ -13,7 +13,7 @@ Este guia é destinado a chefs profissionais, cozinheiros amadores e entusiastas
 
 ### 4.1. Panela de Aço Inox
 
-![alt text](../../assets/img_resized/faca-chef.png)
+![alt text](../assets/img_resized/panela-inox.png)
 
 #### 4.1.1. Vantagens
   - Alta durabilidade
@@ -30,7 +30,7 @@ Este guia é destinado a chefs profissionais, cozinheiros amadores e entusiastas
 
 ### 4.2. Panela de Ferro Fundido
 
-![alt text](../../assets/img_resized/panela-ferro-fundido.png)
+![alt text](../assets/img_resized/panela-ferro-fundido.png)
 
 #### 4.2.1. Vantagens
   - Excelente retenção de calor
@@ -46,7 +46,7 @@ Este guia é destinado a chefs profissionais, cozinheiros amadores e entusiastas
 
 ### 4.3. Panela de Cobre
 
-![alt text](../../assets/img_resized/panela-cobre.png)
+![alt text](../assets/img_resized/panela-cobre.png)
 
 #### 4.3.1. Vantagens
   - Excelente condutividade térmica
@@ -61,7 +61,7 @@ Este guia é destinado a chefs profissionais, cozinheiros amadores e entusiastas
 
 ### 4.4. Panela de Alumínio
 
-![alt text](../../assets/img_resized/panela-aluminio.png)
+![alt text](../assets/img_resized/panela-aluminio.png)
 
 #### 4.4.1. Vantagens
   - Leve
@@ -77,15 +77,11 @@ Este guia é destinado a chefs profissionais, cozinheiros amadores e entusiastas
 
 ### 4.5. Panela Antiaderente (Teflon e Cerâmica)
 
-![alt text](assets/img_resized/panela-teflon.png)
-
-![alt text](/masterchef/assets/img_resized/panela-teflon.png)
+![alt text](../../assets/img_resized/panela-teflon.png)
 
 **Panela Teflon**
 
-![alt text](../../assets/img_resized/panela-teflon.png)
-
-![alt text](../../assets/img_resized/panela-ceramica.png)
+![alt text](../assets/img_resized/panela-ceramica.png)
 
 **Panela ceramica**
 #### 4.5.1. Vantagens
@@ -102,7 +98,7 @@ Este guia é destinado a chefs profissionais, cozinheiros amadores e entusiastas
 
 ### 4.6. Panela de Vidro
 
-![alt text](../../assets/img_resized/panela-vidro.png)
+![alt text](../assets/img_resized/panela-vidro.png)
 
 #### 4.6.1. Vantagens
   - Não libera substâncias tóxicas
@@ -117,7 +113,7 @@ Este guia é destinado a chefs profissionais, cozinheiros amadores e entusiastas
 
 ### 4.7. Panela de Barro
 
-![alt text](../../assets/img_resized/panela-barro.png)
+![alt text](../assets/img_resized/panela-barro.png)
 
 #### 4.7.1. Vantagens
   - Conserva bem o calor
@@ -132,7 +128,7 @@ Este guia é destinado a chefs profissionais, cozinheiros amadores e entusiastas
 
 ### 4.8. Panela de Titânio
 
-![alt text](../../assets/img_resized/panela-titanio.png)
+![alt text](../assets/img_resized/panela-titanio.png)
 
 #### 4.8.1. Vantagens
   - Extremamente resistente
