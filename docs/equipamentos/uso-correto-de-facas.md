@@ -16,7 +16,7 @@ Cada tipo de faca tem uma função específica. Abaixo estão descrições detal
 
 ### 4.1. Faca do Chef
 
-![alt text](img_resized/faca-chef.png)
+![alt text](../assets/img_resized/faca-chef.png)
 
 A faca mais versátil da cozinha, com uma lâmina longa e afiada, ideal para cortes gerais, picar ervas, fatiar carnes e legumes. Seu formato facilita o movimento de balanço ao cortar.
 
